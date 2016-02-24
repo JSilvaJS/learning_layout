@@ -1,0 +1,36 @@
+.sandbox {
+	background: #ccc;
+	width: 500px;
+	height: 400px;
+	
+}
+
+.box {
+	border: 1px solid black;
+	box-sizing: border-box;
+	width: 50px;
+	height: 50px;
+	
+}
+
+.sm {
+	width: 25px;
+	height: 25px;
+	background-color: red;
+	bottom: 0;
+	right: 0;
+	float: right;
+}
+
+.md {
+	width: 50px;
+	height: 50px;
+	background-color: green;
+	float: right;
+}
+
+.lg {
+	background-color: blue;
+	float: right;
+}
+
