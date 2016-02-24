@@ -5,6 +5,7 @@ ul
     list-style-type: none;
 }
 
+
 .octodex {
 	border: 1px solid #DBDBDB;
 	overflow: hidden;
@@ -65,10 +66,6 @@ span,a {
 }
 
 
-.3rd div {
-	position: static;
-	left: -200px;
-}
 
 .liljohn {
 	position: absolute;
